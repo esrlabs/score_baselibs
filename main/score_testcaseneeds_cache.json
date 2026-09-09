@@ -5558,6 +5558,20 @@
     "FullyVerifies": null
   },
   {
+    "name": "score/flatbuffers/bazel/schema_generator_test",
+    "file": null,
+    "line": null,
+    "result": "passed",
+    "repo_name": null,
+    "hash": null,
+    "url": null,
+    "TestType": null,
+    "DerivationTechnique": null,
+    "result_text": "",
+    "PartiallyVerifies": null,
+    "FullyVerifies": null
+  },
+  {
     "name": "score/flatbuffers/test/serialize_buffer_rules/serialize_versioned_buffer_test.sh",
     "file": null,
     "line": null,
@@ -5573,6 +5587,20 @@
   },
   {
     "name": "score/flatbuffers/test/serialize_buffer_rules/serialize_buffer_test.sh",
+    "file": null,
+    "line": null,
+    "result": "passed",
+    "repo_name": null,
+    "hash": null,
+    "url": null,
+    "TestType": null,
+    "DerivationTechnique": null,
+    "result_text": "",
+    "PartiallyVerifies": null,
+    "FullyVerifies": null
+  },
+  {
+    "name": "score/flatbuffers/test/generate_json_schema/gen_rich_json_schema_diff_test-test.sh",
     "file": null,
     "line": null,
     "result": "passed",
